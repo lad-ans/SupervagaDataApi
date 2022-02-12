@@ -1,0 +1,36 @@
+{
+    "Id": "b7ebf3e5-5dfe-4012-93d7-2757c97096ef",
+    "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+    "CreatedAt": "2022-01-18",
+    "ExpiresAt": "2022-02-18",
+    "Candidates": [
+        {
+            "Id": "7a49991e-7d47-4cc0-94c1-58b3068f3d17",
+            "ApplicationId": "b7ebf3e5-5dfe-4012-93d7-2757c97096ef",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "UserId": "d5ab803b-13d4-44b5-bf7f-3970cf074571",
+            "Status": "PENDING",
+            "CreatedAt": "2022-02-01",
+            "IsCV": true
+        },
+        {
+            "Id": "e34c8009-be4b-4ba7-b967-524f8bb3b6c0",
+            "ApplicationId": "b7ebf3e5-5dfe-4012-93d7-2757c97096ef",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "UserId": "d5ab803b-13d4-44b5-bf7f-3970cf074571",
+            "Status": "DESPATCHED",
+            "CreatedAt": "2022-02-04",
+            "IsCV": false
+        },
+        {
+            "Id": "8612ed22-e558-49eb-a2c5-52d7f691e3be",
+            "ApplicationId": "b7ebf3e5-5dfe-4012-93d7-2757c97096ef",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "UserId": "d5ab803b-13d4-44b5-bf7f-3970cf074571",
+            "Status": "DESPATCHED",
+            "CreatedAt": "2022-02-04",
+            "IsCV": false
+        }
+        
+    ]
+}

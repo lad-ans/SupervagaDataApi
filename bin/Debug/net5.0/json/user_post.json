@@ -1,0 +1,16 @@
+{
+    "Id": "d5ab803b-13d4-44b5-bf7f-3970cf074571",
+    "Avatar": "https://...",
+    "Name": "Kézia da Fifi",
+    "Password": "1234567",
+    "Phone": "+258840552930",
+    "Address": "Maputo",
+    "Biography": "Dev Daugther",
+    "Email": "kezia@teste.com",
+    "Type": "PERSON",
+    "Gender": "FEMALE",
+    "Provider": "google",
+    "Cv": "https://...",
+    "Tag": ".NET",
+    "Role": "admin"
+}

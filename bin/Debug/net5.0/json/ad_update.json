@@ -1,0 +1,38 @@
+{
+    "Id": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+    "Title": "Programador .NET (ASP.NET e MAUI)",
+    "ApplicationID": "4d4f610a-424c-4b25-b11a-a5b9b43e2b07",
+    "Category": "Informática (Programação)",
+    "Description": "Super oportunidade de carreira. Candidate-se já",
+    "Address": "Maputo",
+    "AudienceGender": "FEMALE",
+    "CreatedAt": "2022-01-16",
+    "ExpiresAt": "2022-02-16",
+    "UserId": "d5ab803b-13d4-44b5-bf7f-3970cf074571",
+    "IsFreelance": false,
+    "Advantages": [
+        {
+            "Id": "defc0546-5bdf-469f-a49e-2407c06c75e0",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": "Certificado GPTW"
+        },
+        {
+            "Id": "5460cb3f-3e6f-4c02-87a6-c8630cb4d4c6",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": "Oportunidade de carreira"
+        },
+        {
+            "Id": "3a979c92-f444-4739-a489-c4b625667ad5",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": "Internet gratis"
+        }
+    ],
+    "Requirements": [
+        {
+            "Id": "4b88357c-9b99-48e2-9e16-473788cde591",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": "ASP.NET"
+        }
+    ],
+    "SalaryOffer": 20000
+}

@@ -1,0 +1,6 @@
+appsettings.json
+appsettings.Development.json
+Startup.cs
+/json
+/Migrations
+Settings.cs

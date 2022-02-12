@@ -1,0 +1,32 @@
+{
+    "Id": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+    "Title": "Programador Flutter",
+    "Category": "Informática (Programação)",
+    "Description": "Super oportunidade de carreira. Candidate-se já",
+    "Address": "Maputo",
+    "AudienceGender": "FEMALE",
+    "CreatedAt": "2022-01-16",
+    "ExpiresAt": "2022-02-16",
+    "UserId": "d5ab803b-13d4-44b5-bf7f-3970cf074571",
+    "IsFreelance": false,
+    "Advantages": [
+        {
+            "Id": "5460cb3f-3e6f-4c02-87a6-c8630cb4d4c6",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": "Oportunidade de carreira"
+        }
+    ],
+    "Requirements": [
+        {
+            "Id": "8f481c67-a410-4331-8ae5-bfe9cbcde192",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": "2+ anos Flutter"
+        },
+        {
+            "Id": "51f781ce-d193-40ca-8f9b-151ca761ff0c",
+            "AdId": "051a6b24-9057-422b-b2bb-74307ee3c3ec",
+            "Title": ".NET"
+        }
+    ],
+    "SalaryOffer": 20000
+}
